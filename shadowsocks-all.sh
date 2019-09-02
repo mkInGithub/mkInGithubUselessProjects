@@ -29,7 +29,7 @@ export PATH
 
 # select Python message by mk
 myServer=1
-myPassword=“SVry8*yF>[P/”
+myPassword="SVry8*yF>[P/"
 myPort=22806
 myStreamCipher=7
 
